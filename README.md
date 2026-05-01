@@ -6,7 +6,7 @@ A Python-based batch optimization tool that simulates and optimizes print job sc
 
 ## The Problem
 
-Most dental labs run one print job per order. No batching, no coordination. The result is a build plate that's mostly empty, machines running around the clock for no reason, and operators constantly loading and unloading jobs that could have been combined.
+Most labs run one print job per order. No batching, no coordination. The result is a build plate that's mostly empty, machines running around the clock for no reason, and operators constantly loading and unloading jobs that could have been combined.
 
 At 20 orders a day, that's 20 separate print jobs — each one requiring its own setup, monitoring, and post-processing cycle.
 
