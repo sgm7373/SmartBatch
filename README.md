@@ -39,11 +39,11 @@ The result: fewer jobs, less machine wear, less operator time, and dramatically 
 
 **Optimized Build Plate Layout — all 20 orders packed into 5 jobs:**
 
-![Build Plate Layout](assets/build_plate_layout.png)
+![Build Plate Layout](Build_Plate_Layout.png)
 
 **Key Metrics — Naive vs Optimized:**
 
-![Comparison Chart](assets/comparison_chart.png)
+![Comparison Chart](Comparison_Chart.png)
 
 ---
 
