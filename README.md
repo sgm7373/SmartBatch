@@ -88,9 +88,8 @@ smartbatch/
 │
 ├── SmartBatch_Automated_Print_Queue_Optimizer_for_Manufacturing.ipynb
 ├── README.md
-└── assets/
-    ├── build_plate_layout.png
-    └── comparison_chart.png
+├── build_plate_layout.png
+└── comparison_chart.png
 ```
 
 ---
