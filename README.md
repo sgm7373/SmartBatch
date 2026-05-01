@@ -108,4 +108,4 @@ smartbatch/
 
 **Sourabh Gopinath More**  
 MS Computer Science
-[LinkedIn](https://www.linkedin.com/in/sourabhmore73/) | [Portfolio](https://sourabhmore.carrd.co/) | [GitHub]()
+[LinkedIn](https://www.linkedin.com/in/sourabhmore73/) | [Portfolio](https://sourabhmore.carrd.co/) | [GitHub](https://github.com/sgm7373)
