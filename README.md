@@ -1,4 +1,4 @@
-# SmartBatch — Automated Print Queue Optimizer for Manufacturing
+# SmartBatch - Automated Print Queue Optimizer for Manufacturing
 
 A Python-based batch optimization tool that simulates and optimizes print job scheduling for high-volume dental manufacturing workflows. Built to demonstrate how intelligent batching reduces machine cycles, operator intervention, and total print time at scale.
 
